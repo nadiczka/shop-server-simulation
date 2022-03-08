@@ -6,7 +6,7 @@
 
 The project has been created during studies on the Computer Science classes.
 
-##What it has been created for?
+## What it has been created for?
 
 The project is not very functional, but it shows the knowledge of certain practices.
 
