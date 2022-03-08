@@ -7,6 +7,7 @@
 The project has been created during studies on the Computer Science classes.
 
 ##What it has been created for?
+
 The project is not very functional, but it shows the knowledge of certain practices.
 
 1. It contains some relations between the classes, like:
@@ -24,6 +25,7 @@ The project is not very functional, but it shows the knowledge of certain practi
 5. Implemented custom error
 
 ##Description
+
 It is a very poor simulation of shop server.
 
 Shop owner can init server with some products. 
@@ -48,5 +50,6 @@ The client want to get product with 3 letters. So he received the products 1 and
 because 'Pen' and 'Car' has 3 letters in name.
 
 ## Warning!!!
+
 At real the main file does nothing.
 It has been created to easier manual testing and checking relations between classes.
