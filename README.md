@@ -24,7 +24,7 @@ The project is not very functional, but it shows the knowledge of certain practi
 
 5. Implemented custom error
 
-##Description
+## Description
 
 It is a very poor simulation of shop server.
 
@@ -38,7 +38,7 @@ The client can get some products and count the total price for them.
 <br>At one time the client can only select products with a certain number of letters in 
 the name. 
 
-##Example
+## Example
 
 There are only 3 products on shop server:
 
